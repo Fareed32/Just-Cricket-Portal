@@ -181,6 +181,12 @@ This is a private organizational application.
 User registration is restricted to authorized academy members only.
 
 
+
+https://github.com/user-attachments/assets/bdc00cf5-3679-4d00-b565-515003fbc3ec
+
+
+
+
 <img width="1366" height="694" alt="screencapture-justcricportal-2026-03-01-14_42_44" src="https://github.com/user-attachments/assets/af5aa18c-6c88-470f-9739-2b0d9df4fc23" />
 
 <img width="1366" height="1157" alt="screencapture-justcricportal-dashboard-2026-03-01-14_28_51" src="https://github.com/user-attachments/assets/e94b5a70-88cc-4023-a0cf-1fef6fe19c4b" />
